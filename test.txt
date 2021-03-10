@@ -1,3 +1,4 @@
 dasqwd
 Hello world
-I'm bot, which you kill
+I'm bot, which kill you
+
