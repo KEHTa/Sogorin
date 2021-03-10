@@ -1,4 +1,4 @@
-dasqwd
+Branch editor!
 Hello world
 I'm bot, which kill you
 
